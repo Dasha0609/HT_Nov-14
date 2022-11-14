@@ -1,0 +1,15 @@
+C:\Users\Darya\Desktop\GeekBr\HT_Nov\HT_Nov_Ex2\bin\Debug\net6.0\HT_Nov_Ex2.exe
+C:\Users\Darya\Desktop\GeekBr\HT_Nov\HT_Nov_Ex2\bin\Debug\net6.0\HT_Nov_Ex2.deps.json
+C:\Users\Darya\Desktop\GeekBr\HT_Nov\HT_Nov_Ex2\bin\Debug\net6.0\HT_Nov_Ex2.runtimeconfig.json
+C:\Users\Darya\Desktop\GeekBr\HT_Nov\HT_Nov_Ex2\bin\Debug\net6.0\HT_Nov_Ex2.dll
+C:\Users\Darya\Desktop\GeekBr\HT_Nov\HT_Nov_Ex2\bin\Debug\net6.0\HT_Nov_Ex2.pdb
+C:\Users\Darya\Desktop\GeekBr\HT_Nov\HT_Nov_Ex2\obj\Debug\net6.0\HT_Nov_Ex2.csproj.AssemblyReference.cache
+C:\Users\Darya\Desktop\GeekBr\HT_Nov\HT_Nov_Ex2\obj\Debug\net6.0\HT_Nov_Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darya\Desktop\GeekBr\HT_Nov\HT_Nov_Ex2\obj\Debug\net6.0\HT_Nov_Ex2.AssemblyInfoInputs.cache
+C:\Users\Darya\Desktop\GeekBr\HT_Nov\HT_Nov_Ex2\obj\Debug\net6.0\HT_Nov_Ex2.AssemblyInfo.cs
+C:\Users\Darya\Desktop\GeekBr\HT_Nov\HT_Nov_Ex2\obj\Debug\net6.0\HT_Nov_Ex2.csproj.CoreCompileInputs.cache
+C:\Users\Darya\Desktop\GeekBr\HT_Nov\HT_Nov_Ex2\obj\Debug\net6.0\HT_Nov_Ex2.dll
+C:\Users\Darya\Desktop\GeekBr\HT_Nov\HT_Nov_Ex2\obj\Debug\net6.0\refint\HT_Nov_Ex2.dll
+C:\Users\Darya\Desktop\GeekBr\HT_Nov\HT_Nov_Ex2\obj\Debug\net6.0\HT_Nov_Ex2.pdb
+C:\Users\Darya\Desktop\GeekBr\HT_Nov\HT_Nov_Ex2\obj\Debug\net6.0\HT_Nov_Ex2.genruntimeconfig.cache
+C:\Users\Darya\Desktop\GeekBr\HT_Nov\HT_Nov_Ex2\obj\Debug\net6.0\ref\HT_Nov_Ex2.dll
