@@ -8,7 +8,7 @@ int number = input[input.Length - 1] - '0';
 
 if (input.Length >= 3)
 {
-    Console.WriteLine("The third number is  " + input.ToString () + " = " + input.ToString()[2]);
+    Console.WriteLine("The third number of " + input.ToString () + " is " + input.ToString()[2]);
 }
 else
 {
