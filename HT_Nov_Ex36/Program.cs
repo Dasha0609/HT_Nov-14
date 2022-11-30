@@ -5,13 +5,17 @@ int[] numbers = new int[size];
 FillArrayRandomNumbers(numbers);
 WriteArray(numbers);
 int count = 0;
+int sum = 0;
 
 for (int i = 0; i < numbers.Length; i++)
 {
-    if ((numbers[i] % 2) == 0)
+    if ((i % 2) == 0)
+    {
+        sum = sum + numbers[i];
         count++;
+    }
 }   
-    Console.Write(count);
+    Console.Write(sum);
     Console.ReadKey();
 
 
